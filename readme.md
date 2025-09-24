@@ -12,8 +12,11 @@ Esta aplicação permite que você adicione nomes de participantes e realize um 
 🚀 Funcionalidades
 
 ✅ Adicionar participantes: Digite nomes através de um campo de texto
+
 ✅ Validação inteligente: Impede nomes vazios e duplicados
+
 ✅ Lista visual: Veja todos os participantes adicionados
+
 ✅ Sorteio aleatório: Algoritmo justo para seleção aleatória
 
 
@@ -36,4 +39,5 @@ Veja o resultado do sorteio na tela!
 Clarice
 
 GitHub: @claricelix
+
 
