@@ -1,6 +1,7 @@
 Challenge Amigo Secreto - SELEÇÃO ONE G9
 
-🎓 Programa ONE - Oracle Next Education
+🎓 Programa ONE - Oracle Next Education 
+
 Este projeto faz parte do programa ONE - Oracle Next Education, um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
 
 🔗 [Saiba mais sobre o ONE](https://www.oracle.com/education/oracle-next-education/) 
@@ -35,3 +36,4 @@ Veja o resultado do sorteio na tela!
 Clarice
 
 GitHub: @claricelix
+
